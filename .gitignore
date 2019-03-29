@@ -1,2 +1,4 @@
 resources/
 empty-example
+package-lock.json
+node_modules
